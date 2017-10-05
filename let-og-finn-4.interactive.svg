@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://lumbrikus.no/css/interactive-svg.css" ?>   
+<svg
+    id="SVG_let_og_finn"
+    width="100%"
+    height="100%"
+    viewBox="-900 -600 1800 1200"
+    preserveAspectRatio="xMidYMid meet"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+     version="2.0"
+    
+    >
+    <title>Let og finn ord i bildet</title>
+    <defs>
+        <style type="text/css">
+            <![CDATA[*/
+            /*]]>*/
+        </style>
+    </defs>
+
+    
+
+    <image id="let_og_finn_bg" xlink:href="https://lumbrikus.no/media/svg/img/let-og-finn-4-bg.jpg" x="-900" y="-600" width="1800" height="1200"></image>
+    
+    <g id="g_active_zones">
+        <path id="zone_ord" class="active_zone" aria-controls="t_ord" d="M100,100 h100 v-100 z"></path>
+    </g>
+    
+    <g class="g_ord">
+        <text class="ord" id="t_rodklover" x="-738" y="-167" dy="20">rødkløver</text>
+        <text class="ord" id="t_humle" x="168" y="140" dy="20">humle</text>
+        <text class="ord" id="t_fuglevikke" x="-688" y="315" dy="20">fuglevikke</text>
+        <text class="ord" id="t_meitemarkbaesj" x="-634" y="554" dy="20">meitemarkbæsj</text>
+        <text class="ord" id="t_haargullbasse" x="657" y="-562" dy="20">hårgullbasse</text>
+        <text class="ord" id="t_blomsterflue" x="-325" y="334" dy="20">blomsterflue</text>
+        <text class="ord" id="t_smorblomst" x="29" y="410" dy="20">smørblomst</text>
+        <text class="ord" id="t_blaabaerblomst" x="371" y="290" dy="20">blåbærblomst</text>
+        <text class="ord" id="t_prestekrage" x="422" y="-366" dy="20">prestekrage</text>
+        <text class="ord" id="t_geitrams" x="704" y="223" dy="20">geitrams</text>
+        <text class="ord" id="t_epleblomst" x="-50" y="-417" dy="20">epleblomst</text>
+    </g>
+    
+    <g id="g_ord_clones">
+        <!--<use class="ord bg" xlink:href="#t_ord1"></use>
+        <use class="ord fg" xlink:href="#t_ord1"></use> -->   
+    </g>
+    
+    <script type="text/javascript" xlink:href="https://lumbrikus.no/js/libs/snap.svg-min.js"></script>
+    <script type="text/javascript" xlink:href="https://lumbrikus.no/js/let-og-finn.js"></script>
+    <!--<script type="text/javascript" xlink:href="https://lumbrikus.no/js/showcoords.js"></script>-->
+</svg>
