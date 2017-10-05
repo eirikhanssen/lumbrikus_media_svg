@@ -28,7 +28,18 @@
     </g>
     
     <g class="g_ord">
-        
+        <text class="ord" id="t_framvinge" x="-629" y="-484" dy="20">framvinge</text>
+        <text class="ord" id="t_pels_med_gult_pollen" x="-212" y="-376" dy="20">pels med gult pollen</text>
+        <text class="ord" id="t_antenne" x="77" y="-302" dy="20">antenne</text>
+        <text class="ord" id="t_oeye" x="43" y="-200" dy="20">øye</text>
+        <text class="ord" id="t_tunge" x="10" y="59" dy="20">tunge</text>
+        <text class="ord" id="t_blaaklokke" x="268" y="338" dy="20">blåklokke</text>
+        <text class="ord" id="t_bein_med_gult_pollen" x="-451" y="210" dy="20">bein med gult pollen</text>
+        <text class="ord" id="t_brodd" x="-575" y="93" dy="20">brodd</text>
+        <text class="ord" id="t_hvit_pels" x="-652" y="-13" dy="20">hvit pels</text>
+        <text class="ord" id="t_svart_pels" x="-674" y="-122" dy="20">svart pels</text>
+        <text class="ord" id="t_gul_pels" x="-670" y="-182" dy="20">gul pels</text>
+        <text class="ord" id="t_bakvinge" x="-681" y="-261" dy="20">bakvinge</text>
     </g>
     
     <g id="g_ord_clones">
@@ -37,5 +48,5 @@
     
     <script type="text/javascript" xlink:href="https://lumbrikus.no/js/libs/snap.svg-min.js"></script>
     <script type="text/javascript" xlink:href="https://lumbrikus.no/js/let-og-finn.js"></script>
-    <script type="text/javascript" xlink:href="https://lumbrikus.no/js/showcoords.js"></script>
+    <!--<script type="text/javascript" xlink:href="https://lumbrikus.no/js/add-svg-words.js"></script>-->
 </svg>
