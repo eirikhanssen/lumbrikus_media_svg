@@ -28,7 +28,22 @@
     </g>
     
     <g class="g_ord">
-
+        
+        <text class="ord" id="t_erteplante" x="-346" y="-463" dy="20">erteplante</text>
+        <text class="ord" id="t_rot" x="-338" y="-35" dy="20">rot</text>
+        <text class="ord" id="t_rhisobium_bor_i_denne_knollen" x="82" y="-500" dy="20"><tspan x="82" y="-500" dy="0">rhisobium bor </tspan><tspan x="82" y="-500" dy="50">i denne knollen</tspan></text>
+        <text class="ord" id="t_jord" x="-75" y="91" dy="20">jord</text>
+        <text class="ord" id="t_jord2" x="-266" y="567" dy="20">jord</text>
+        <text class="ord" id="t_loepebille" x="750" y="385" dy="20">løpebille</text>
+        <text class="ord" id="t_loepebille2" x="-90" y="430" dy="20">løpebille</text>
+        <text class="ord" id="t_skolopenderen_spiser_en_meitemark" x="500" y="118" dy="20"><tspan x="500" y="118" dy="0">skolopenderen</tspan><tspan x="500" y="118" dy="50">spiser</tspan><tspan x="500" y="118" dy="100">en meitemark</tspan></text>
+        <text class="ord" id="t_meitemark_i_hvilerom" x="-600" y="364" dy="20"><tspan x="-600" y="364" dy="0">meitemark</tspan><tspan x="-600" y="364" dy="50">i hvilerom</tspan></text>
+        <text class="ord" id="t_kokong" x="517" y="549" dy="20">kokong</text>
+        <text class="ord" id="t_en_gang" x="547" y="432" dy="20">en gang</text>
+        <text class="ord" id="t_jenny" x="95" y="232" dy="20">Jenny</text>
+        <text class="ord" id="t_samir" x="159" y="276" dy="20">Samir</text>
+        <text class="ord" id="t_katt" x="257" y="329" dy="20">Katt</text>
+        <text class="ord" id="t_hen" x="342" y="355" dy="20">Hen</text>
     </g>
     
     <g id="g_ord_clones">
@@ -37,5 +52,5 @@
     
     <script type="text/javascript" xlink:href="https://lumbrikus.no/js/libs/snap.svg-min.js"></script>
     <script type="text/javascript" xlink:href="https://lumbrikus.no/js/let-og-finn.js"></script>
-    <script type="text/javascript" xlink:href="https://lumbrikus.no/js/add-svg-words.js"></script>
+    <!--<script type="text/javascript" xlink:href="https://lumbrikus.no/js/add-svg-words.js"></script>-->
 </svg>
