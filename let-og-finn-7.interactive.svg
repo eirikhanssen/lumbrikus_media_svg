@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://lumbrikus.no/css/interactive-svg.css" ?>   
+<svg
+    id="SVG_let_og_finn"
+    width="100%"
+    height="100%"
+    viewBox="-900 -600 1800 1200"
+    preserveAspectRatio="xMidYMid meet"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+     version="2.0"
+    
+    >
+    <title>Let og finn ord i bildet</title>
+    <defs>
+        <style type="text/css">
+            <![CDATA[*/
+            /*]]>*/
+        </style>
+    </defs>
+
+    
+
+    <image id="let_og_finn_bg" xlink:href="https://lumbrikus.no/media/svg/img/let-og-finn-7-bg.jpg" x="-900" y="-600" width="1800" height="1200"></image>
+    
+    <g id="g_active_zones">
+        
+    </g>
+    
+    <g class="g_ord">
+        <text class="ord" id="t_piggsvin" x="607" y="91" dy="20">piggsvin</text>
+        <text class="ord" id="t_aapning_til_meitemarkens_ganger" x="-778" y="215" dy="20"><tspan x="-778" y="215" dy="0">åpning til </tspan><tspan x="-778" y="215" dy="50">meitemarkens </tspan><tspan x="-778" y="215" dy="100">ganger</tspan></text>
+        <text class="ord" id="t_aapning_til_meitemarkens_ganger2" x="125" y="215" dy="20"><tspan x="125" y="215" dy="0">åpning til </tspan><tspan x="125" y="215" dy="50">meitemarkens </tspan><tspan x="125" y="215" dy="100">ganger</tspan></text>
+        <text class="ord" id="t_kuler_hvor_rhisobium_bor" x="177" y="-210" dy="20">kuler hvor rhisobium bor</text>
+        <text class="ord" id="t_erteplante" x="-358" y="42" dy="20">erteplante</text>
+        <text class="ord" id="t_klatretraader" x="6" y="-496" dy="20">klatretråder</text>
+        <text class="ord" id="t_klatretraader2" x="-616" y="-328" dy="20">klatretråder</text>
+        <text class="ord" id="t_jord" x="576" y="542" dy="20">jord</text>
+        <text class="ord" id="t_stjernehimmel" x="438" y="-460" dy="20">stjernehimmel</text>
+        <text class="ord" id="t_hodelykt" x="-78" y="180" dy="20">hodelykt</text>
+        <text class="ord" id="t_rot" x="-326" y="504" dy="20">rot</text>
+        <text class="ord" id="t_baesj_fra_meitemark" x="-174" y="436" dy="20">bæsj fra meitemark</text>
+    </g>
+    
+    <g id="g_ord_clones">
+           
+    </g>
+    
+    <script type="text/javascript" xlink:href="https://lumbrikus.no/js/libs/snap.svg-min.js"></script>
+    <script type="text/javascript" xlink:href="https://lumbrikus.no/js/let-og-finn.js"></script>
+    <!--<script type="text/javascript" xlink:href="https://lumbrikus.no/js/add-svg-words.js"></script>-->
+</svg>

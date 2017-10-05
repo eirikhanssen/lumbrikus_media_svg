@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://lumbrikus.no/css/interactive-svg.css" ?>   
+<svg
+    id="SVG_let_og_finn"
+    width="100%"
+    height="100%"
+    viewBox="-900 -600 1800 1200"
+    preserveAspectRatio="xMidYMid meet"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+     version="2.0"
+    
+    >
+    <title>Let og finn ord i bildet</title>
+    <defs>
+        <style type="text/css">
+            <![CDATA[*/
+            /*]]>*/
+        </style>
+    </defs>
+
+    
+
+    <image id="let_og_finn_bg" xlink:href="https://lumbrikus.no/media/svg/img/let-og-finn-10-bg.jpg" x="-900" y="-740" width="1800" height="1476"></image>
+    
+    <g id="g_active_zones">
+        
+    </g>
+    
+    <g class="g_ord">
+        <text class="ord" id="t_graagaas" x="-345" y="-531" dy="20">grågås</text>
+        <text class="ord" id="t_hus" x="-348" y="-414" dy="20">hus</text>
+        <text class="ord" id="t_himmel" x="92" y="-531" dy="20">himmel</text>
+        <text class="ord" id="t_is" x="-771" y="417" dy="20">is</text>
+        <text class="ord" id="t_oerret" x="-140" y="544" dy="20">ørret</text>
+        <text class="ord" id="t_vann" x="203" y="540" dy="20">vann</text>
+        <text class="ord" id="t_doed_humle" x="419" y="-18" dy="20">død humle</text>
+        <text class="ord" id="t_peanoetter" x="612" y="479" dy="20">peanøtter</text>
+        <text class="ord" id="t_ekorn" x="725" y="257" dy="20">ekorn</text>
+        <text class="ord" id="t_mus" x="810" y="-247" dy="20">mus</text>
+        <text class="ord" id="t_ert" x="679" y="-123" dy="20">ert</text>
+        <text class="ord" id="t_visne_erteplanter" x="497" y="-302" dy="20">visne erteplanter</text>
+        <text class="ord" id="t_vindu" x="569" y="-530" dy="20">vindu</text>
+        <text class="ord" id="t_rognebaerblad" x="-397" y="-34" dy="20">rognebærblad</text>
+        <text class="ord" id="t_loev" x="-788" y="65" dy="20">løv</text>
+        <text class="ord" id="t_katt" x="-261" y="140" dy="20">Katt</text>
+        <text class="ord" id="t_samir" x="-108" y="-152" dy="20">Samir</text>
+        <text class="ord" id="t_jenny" x="129" y="-158" dy="20">Jenny</text>
+        <text class="ord" id="t_busker" x="-811" y="-267" dy="20">busker</text>
+        <text class="ord" id="t_hen" x="-425" y="-150" dy="20">Hen</text>
+    </g>
+    
+    <g id="g_ord_clones">
+           
+    </g>
+    
+    <script type="text/javascript" xlink:href="https://lumbrikus.no/js/libs/snap.svg-min.js"></script>
+    <script type="text/javascript" xlink:href="https://lumbrikus.no/js/let-og-finn.js"></script>
+    <!--<script type="text/javascript" xlink:href="https://lumbrikus.no/js/add-svg-words.js"></script>-->
+</svg>

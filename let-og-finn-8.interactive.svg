@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://lumbrikus.no/css/interactive-svg.css" ?>   
+<svg
+    id="SVG_let_og_finn"
+    width="100%"
+    height="100%"
+    viewBox="-900 -600 1800 1200"
+    preserveAspectRatio="xMidYMid meet"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+     version="2.0"
+    
+    >
+    <title>Let og finn ord i bildet</title>
+    <defs>
+        <style type="text/css">
+            <![CDATA[*/
+            /*]]>*/
+        </style>
+    </defs>
+
+    
+
+    <image id="let_og_finn_bg" xlink:href="https://lumbrikus.no/media/svg/img/let-og-finn-8-bg.jpg" x="-900" y="-600" width="1800" height="1200"></image>
+    
+    <g id="g_active_zones">
+        
+    </g>
+    
+    <g class="g_ord">
+        <text class="ord" id="t_rakle" x="-671" y="-530" dy="20">rakle</text>
+        <text class="ord" id="t_rakle2" x="-678" y="-410" dy="20">rakle</text>
+        <text class="ord" id="t_bjoerkefroe" x="-483" y="-290" dy="20"><tspan x="-483" y="-290" dy="0">bjørke-</tspan><tspan  x="-483" y="-290" dy="50">frø</tspan></text>
+        <text class="ord" id="t_epletre" x="-219" y="-553" dy="20">epletre</text>
+        <text class="ord" id="t_trost" x="542" y="-546" dy="20">trost</text>
+        <text class="ord" id="t_rognebaer" x="322" y="-317" dy="20">rognebær</text>
+        <text class="ord" id="t_kast_fra_meitemark" x="80" y="203" dy="20"><tspan x="80" y="203" dy="0">kast fra </tspan><tspan x="80" y="203" dy="50">meitemark</tspan></text>
+        <text class="ord" id="t_humle" x="345" y="306" dy="20">humle</text>
+        <text class="ord" id="t_mus" x="551" y="442" dy="20">mus</text>
+        <text class="ord" id="t_rognebaer2" x="315" y="559" dy="20">rognebær</text>
+        <text class="ord" id="t_blaabaer" x="714" y="287" dy="20">blåbær</text>
+        <text class="ord" id="t_roedkloever" x="89" y="469" dy="20">rødkløver</text>
+        <text class="ord" id="t_eple" x="-117" y="494" dy="20">eple</text>
+        <text class="ord" id="t_hage-snegl" x="-400" y="429" dy="20"><tspan x="-400" y="429" dy="0">hage-</tspan><tspan x="-400" y="429" dy="50">snegl</tspan></text>
+        <text class="ord" id="t_fuglevikke" x="-572" y="226" dy="20">fuglevikke</text>
+        <text class="ord" id="t_geitrams" x="-758" y="22" dy="20">geitrams</text>
+    </g>
+    
+    <g id="g_ord_clones">
+           
+    </g>
+    
+    <script type="text/javascript" xlink:href="https://lumbrikus.no/js/libs/snap.svg-min.js"></script>
+    <script type="text/javascript" xlink:href="https://lumbrikus.no/js/let-og-finn.js"></script>
+    <!--<script type="text/javascript" xlink:href="https://lumbrikus.no/js/add-svg-words.js"></script>-->
+</svg>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://lumbrikus.no/css/interactive-svg.css" ?>   
+<svg
+    id="SVG_let_og_finn"
+    width="100%"
+    height="100%"
+    viewBox="-900 -600 1800 1200"
+    preserveAspectRatio="xMidYMid meet"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+     version="2.0"
+    
+    >
+    <title>Let og finn ord i bildet</title>
+    <defs>
+        <style type="text/css">
+            <![CDATA[*/
+            /*]]>*/
+        </style>
+    </defs>
+
+    
+
+    <image id="let_og_finn_bg" xlink:href="https://lumbrikus.no/media/svg/img/let-og-finn-9-bg.jpg" x="-900" y="-600" width="1800" height="1200"></image>
+    
+    <g id="g_active_zones">
+        
+    </g>
+    
+    <g class="g_ord">
+        
+        <text class="ord" id="t_gulroetter" x="-26" y="482" dy="20">gulrøtter</text>
+        <text class="ord" id="t_sukkererter" x="-91" y="562" dy="20">sukkererter</text>
+        <text class="ord" id="t_kjele" x="-48" y="390" dy="20">kjele</text>
+        <text class="ord" id="t_suppe" x="-51" y="280" dy="20">suppe</text>
+        <text class="ord" id="t_peanoetter" x="-744" y="447" dy="20">peanøtter</text>
+        <text class="ord" id="t_spade" x="-606" y="249" dy="20">spade</text>
+        <text class="ord" id="t_geitrams" x="-769" y="-347" dy="20">geitrams</text>
+        <text class="ord" id="t_ekorn" x="-632" y="-265" dy="20">ekorn</text>
+        <text class="ord" id="t_hermetikkboks" x="588" y="283" dy="20">hermetikkboks</text>
+        <text class="ord" id="t_maake" x="729" y="-408" dy="20">måke</text>
+        <text class="ord" id="t_skjeer" x="-464" y="542" dy="20">skjeer</text>
+        <text class="ord" id="t_suppeboller" x="-403" y="443" dy="20">suppeboller</text>
+        <text class="ord" id="t_gult_loev" x="-370" y="-24" dy="20">gult løv</text>
+        <text class="ord" id="t_baesj_fra_meitemark" x="-380" y="-137" dy="20"><tspan x="-380" y="-137" dy="0">bæsj fra </tspan><tspan x="-380" y="-137" dy="50">meitemark</tspan></text>
+        <text class="ord" id="t_boenner" x="238" y="484" dy="20">bønner</text>
+        <text class="ord" id="t_kokeplate" x="224" y="364" dy="20">kokeplate</text>
+        <text class="ord" id="t_her_kom_det_erter_boenner_og_gulroetter" x="-316" y="-402" dy="20"><tspan x="-316" y="-402" dy="0">her kom det erter, </tspan><tspan x="-316" y="-402" dy="50">bønner og </tspan><tspan x="-316" y="-402" dy="100">gulrøtter</tspan></text>
+        <text class="ord" id="t_blaabaer" x="771" y="-171" dy="20">blåbær</text>
+    </g>
+    
+    <g id="g_ord_clones">
+           
+    </g>
+    
+    <script type="text/javascript" xlink:href="https://lumbrikus.no/js/libs/snap.svg-min.js"></script>
+    <script type="text/javascript" xlink:href="https://lumbrikus.no/js/let-og-finn.js"></script>
+    <!--<script type="text/javascript" xlink:href="https://lumbrikus.no/js/add-svg-words.js"></script>-->
+</svg>
