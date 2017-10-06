@@ -21,7 +21,7 @@
 
     
 
-    <image id="let_og_finn_bg" xlink:href="https://lumbrikus.no/media/svg/img/let-og-finn-10-bg.jpg" x="-900" y="-740" width="1800" height="1476"></image>
+    <image id="let_og_finn_bg" xlink:href="https://lumbrikus.no/media/svg/img/10-let-og-finn.bg.jpg" x="-900" y="-740" width="1800" height="1476"></image>
     
     <g id="g_active_zones">
         
@@ -56,5 +56,5 @@
     
     <script type="text/javascript" xlink:href="https://lumbrikus.no/js/libs/snap.svg-min.js"></script>
     <script type="text/javascript" xlink:href="https://lumbrikus.no/js/let-og-finn.js"></script>
-    <!--<script type="text/javascript" xlink:href="https://lumbrikus.no/js/add-svg-words.js"></script>-->
+    <script type="text/javascript" xlink:href="https://lumbrikus.no/js/add-svg-words.js"></script>
 </svg>

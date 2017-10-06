@@ -21,7 +21,7 @@
 
     
 
-    <image id="let_og_finn_bg" xlink:href="https://lumbrikus.no/media/svg/img/let-og-finn-4-bg.jpg" x="-900" y="-600" width="1800" height="1200"></image>
+    <image id="let_og_finn_bg" xlink:href="https://lumbrikus.no/media/svg/img/04-let-og-finn.bg.jpg" x="-900" y="-600" width="1800" height="1200"></image>
     
     <g id="g_active_zones">
         <path id="zone_ord" class="active_zone" aria-controls="t_ord" d="M100,100 h100 v-100 z"></path>
