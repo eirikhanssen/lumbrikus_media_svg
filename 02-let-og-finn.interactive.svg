@@ -55,7 +55,7 @@
         <text class="ord" id="t_blomster" x="205" y="-295" dy="20">blomster</text>
         <text class="ord" id="t_linerle" x="632" y="-442" dy="20"><tspan  x="550" y="-442" dy="20">linerle</tspan><tspan x="-700" y="205" dy="20">linerle</tspan></text>
         <text class="ord" id="t_roedkloever" x="724" y="-93" dy="20">rødkløver</text>
-        <text class="ord" id="t_meite-mark-baesj" x="729" y="180" dy="20"><tspan x="729" y="180" dy="0">meite-</tspan><tspan x="729" y="180" dy="50">mark- </tspan><tspan x="729" y="180" dy="100">bæsj  </tspan></text>
+        <text class="ord" id="t_meitemarkbaesj" x="729" y="180" dy="20"><tspan x="729" y="180" dy="0">meite-</tspan><tspan x="729" y="180" dy="50">mark- </tspan><tspan x="729" y="180" dy="100">bæsj  </tspan></text>
         <text class="ord" id="t_pinner" x="763" y="494" dy="20">pinner</text>
         <text class="ord" id="t_froe-pose" x="166" y="479" dy="20"><tspan x="166" y="479" dy="0">frø-</tspan><tspan x="166" y="479" dy="50">pose</tspan></text>
         <text class="ord" id="t_spade" x="66" y="409" dy="20">spade</text>
@@ -67,7 +67,7 @@
         <text class="ord" id="t_hvitveis" x="-216" y="77" dy="20">hvitveis</text>
         <text class="ord" id="t_samir" x="-5" y="169" dy="20">samir</text>
         <text class="ord" id="t_jenny" x="579" y="153" dy="20">Jenny</text>
-        <text class="ord" id="t_blaabaer-blomster" x="-700" y="451" dy="20"><tspan x="-700" y="451" dy="0">blåbær-</tspan><tspan x="-700" y="451" dy="50">blomster</tspan></text>
+        <text class="ord" id="t_blaabaerblomster" x="-700" y="451" dy="20"><tspan x="-700" y="451" dy="0">blåbær-</tspan><tspan x="-700" y="451" dy="50">blomster</tspan></text>
         <text class="ord" id="t_humle" x="-743" y="-14" dy="20">humle</text>
         <text class="ord" id="t_katt" x="-426" y="148" dy="20">katt</text>
         <text class="ord" id="t_fuglevikke" x="-467" y="-89" dy="20">fuglevikke</text>
