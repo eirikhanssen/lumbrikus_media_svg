@@ -42,10 +42,16 @@
         <text class="ord" id="t_hen" x="-690" y="40" dy="20">hen</text>
         <text class="ord" id="t_bjoerk" x="-416" y="244" dy="20">bjørk</text>
         <text class="ord" id="t_krokus" x="-63" y="158" dy="20">krokus</text>
-        <text class="ord" id="t_humle1" x="-466" y="339" dy="20">humle</text>
-        <text class="ord" id="t_humle2" x="741" y="253" dy="20">humle</text>
-        <text class="ord" id="t_selje1" x="728" y="475" dy="20">selje</text>
-        <text class="ord" id="t_selje2" x="-672" y="485" dy="20">selje</text>
+        <text class="ord" id="t_humle" x="-466" y="339" dy="20">
+            <tspan x="-466" y="339" dy="20">humle</tspan>
+            <tspan x="770" y="200" dy="20">humle</tspan>
+        </text>
+        
+        <text class="ord" id="t_selje1" x="728" y="475" dy="20">
+            <tspan x="728" y="475" dy="20">selje</tspan>
+            <tspan x="-672" y="485" dy="20">selje</tspan>
+        </text>
+        
         <text class="ord" id="t_hestehov" x="-409" y="454" dy="20">hestehov</text>
         <text class="ord" id="t_samir" x="117" y="278" dy="20">samir</text>
         <text class="ord" id="t_jenny" x="541" y="391" dy="20">jenny</text>
