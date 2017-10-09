@@ -21,7 +21,7 @@
 
     
 
-    <image id="let_og_finn_bg" xlink:href="img/08-let-og-finn.bg.jpg" x="-900" y="-600" width="1800" height="1200"></image>
+    <image id="let_og_finn_bg" xlink:href="img/08-let-og-finn-bg.jpg" x="-900" y="-600" width="1800" height="1200"></image>
     
     <g id="g_active_zones" class="active_zones">
         <path id="z_epletre" d="m -366,-569 c -47,39 -134,150 -69,180 68,32 117,71 188,101 63,26 141,99 208,64 72,-37 119,-107 117,-203 -1,-50 82,-119 -11,-141 -93,-21 -186,-31 -280,-37 -49,-3 -110,-0 -153,35 z"></path>
