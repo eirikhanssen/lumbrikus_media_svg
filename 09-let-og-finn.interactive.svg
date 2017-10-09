@@ -46,24 +46,24 @@
     
     <g id="g_ord">
         
-        <text class="ord" id="t_gulroetter" x="-26" y="482" dy="20">gulrøtter</text>
+        <text class="ord" id="t_gulroetter" x="50" y="450" dy="20">gulrøtter</text>
         <text class="ord" id="t_sukkererter" x="-91" y="562" dy="20">sukkererter</text>
-        <text class="ord" id="t_kjele" x="-48" y="390" dy="20">kjele</text>
+        <text class="ord" id="t_kjele" x="-48" y="370" dy="20">kjele</text>
         <text class="ord" id="t_suppe" x="-51" y="280" dy="20">suppe</text>
         <text class="ord" id="t_peanoetter" x="-744" y="447" dy="20">peanøtter</text>
         <text class="ord" id="t_spade" x="-606" y="249" dy="20">spade</text>
         <text class="ord" id="t_geitrams" x="-769" y="-347" dy="20">geitrams</text>
         <text class="ord" id="t_ekorn" x="-632" y="-265" dy="20">ekorn</text>
-        <text class="ord" id="t_hermetikkboks" x="588" y="283" dy="20">hermetikkboks</text>
+        <text class="ord" id="t_hermetikkboks" x="650" y="270" dy="20">hermetikkboks</text>
         <text class="ord" id="t_maake" x="729" y="-408" dy="20">måke</text>
         <text class="ord" id="t_skjeer" x="-464" y="542" dy="20">skjeer</text>
         <text class="ord" id="t_suppeboller" x="-403" y="443" dy="20">suppeboller</text>
-        <text class="ord" id="t_gult_loev" x="-370" y="-24" dy="20">gult løv</text>
-        <text class="ord" id="t_baesj_fra_meitemark" x="-380" y="-137" dy="20"><tspan x="-380" y="-137" dy="0">bæsj fra </tspan><tspan x="-380" y="-137" dy="50">meitemark</tspan></text>
-        <text class="ord" id="t_boenner" x="238" y="484" dy="20">bønner</text>
+        <text class="ord" id="t_gult_loev" x="-370" y="50" dy="20">gult løv</text>
+        <text class="ord" id="t_baesj_fra_meitemark" x="-300" y="-100" dy="20">meitemark</text>
+        <text class="ord" id="t_boenner" x="350" y="484" dy="20">bønner</text>
         <text class="ord" id="t_kokeplate" x="224" y="364" dy="20">kokeplate</text>
         <text class="ord" id="t_her_kom_det_erter_boenner_og_gulroetter" x="-316" y="-402" dy="20"><tspan x="-316" y="-402" dy="0">her kom det erter, </tspan><tspan x="-316" y="-402" dy="50">bønner og </tspan><tspan x="-316" y="-402" dy="100">gulrøtter</tspan></text>
-        <text class="ord" id="t_blaabaer" x="771" y="-171" dy="20">blåbær</text>
+        <text class="ord" id="t_blaabaer" x="750" y="-150" dy="20">blåbær</text>
     </g>
     
     <g id="g_ord_clones">
