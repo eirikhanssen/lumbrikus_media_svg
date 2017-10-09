@@ -51,8 +51,8 @@
         <text class="ord" id="t_mus" x="551" y="442" dy="20">mus</text>
         <text class="ord" id="t_blaabaer" x="714" y="287" dy="20">blåbær</text>
         <text class="ord" id="t_roedkloever" x="89" y="469" dy="20">rødkløver</text>
-        <text class="ord" id="t_eple" x="-117" y="494" dy="20">eple</text>
         <text class="ord" id="t_hage-snegl" x="-400" y="429" dy="20"><tspan x="-400" y="429" dy="0">hage-</tspan><tspan x="-400" y="429" dy="50">snegl</tspan></text>
+        <text class="ord" id="t_eple" x="-117" y="494" dy="20">eple</text>
         <text class="ord" id="t_fuglevikke" x="-572" y="226" dy="20">fuglevikke</text>
         <text class="ord" id="t_geitrams" x="-758" y="22" dy="20">geitrams</text>
     </g>
