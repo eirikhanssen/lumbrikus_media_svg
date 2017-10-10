@@ -41,17 +41,19 @@
     </g>
     
     <g id="g_ord">
-        <text class="ord" id="t_rakle" x="-630" y="-530" dy="20"><tspan>rakle</tspan><tspan x="-630" y="-410" dy="20">rakle</tspan></text>
-        <text class="ord" id="t_bjoerkefroe" x="-483" y="-290" dy="20"><tspan x="-483" y="-290" dy="0">bjørke-</tspan><tspan  x="-483" y="-290" dy="50">frø</tspan></text>
+        <text class="ord" id="t_rakle" x="-630" y="-470" dy="20">rakle</text>
+        <text class="ord" id="t_bjoerkefroe" x="-460" y="-260" dy="20">bjørkefrø</text>
         <text class="ord" id="t_epletre" x="-219" y="-553" dy="20">epletre</text>
         <text class="ord" id="t_trost" x="542" y="-546" dy="20">trost</text>
-        <text class="ord" id="t_rognebaer" x="280" y="-317" dy="20"><tspan>rognebær</tspan><tspan x="280" y="559" dy="20">rognebær</tspan></text>
-        <text class="ord" id="t_kast_fra_meitemark" x="80" y="203" dy="20"><tspan x="80" y="203" dy="0">kast fra </tspan><tspan x="80" y="203" dy="50">meitemark</tspan></text>
-        <text class="ord" id="t_humle" x="345" y="306" dy="20">humle</text>
+        <text class="ord" id="t_rognebaer" x="550" y="-320" dy="20">rognebær</text>
+        <use xlink:href="#t_rognebaer" x="-200" y="840"></use>
+        <text class="ord" id="t_kast_fra_meitemark" x="60" y="315" dy="20">kast fra meitemark</text>
+        <text class="ord" id="t_humle" x="345" y="280" dy="20">humle</text>
         <text class="ord" id="t_mus" x="551" y="442" dy="20">mus</text>
-        <text class="ord" id="t_blaabaer" x="714" y="287" dy="20">blåbær</text>
-        <text class="ord" id="t_roedkloever" x="89" y="469" dy="20">rødkløver</text>
-        <text class="ord" id="t_hage-snegl" x="-400" y="429" dy="20"><tspan x="-400" y="429" dy="0">hage-</tspan><tspan x="-400" y="429" dy="50">snegl</tspan></text>
+        <text class="ord" id="t_blaabaer" x="800" y="300" dy="20">blåbær</text>
+        <text class="ord" id="t_roedkloever" x="120" y="500" dy="20">rødkløver</text>
+        <use xlink:href="#t_roedkloever" x="420" y="-270"></use>
+        <text class="ord" id="t_hagesnegl" x="-300" y="400" dy="20">hagesnegl</text>
         <text class="ord" id="t_eple" x="-117" y="494" dy="20">eple</text>
         <text class="ord" id="t_fuglevikke" x="-572" y="226" dy="20">fuglevikke</text>
         <text class="ord" id="t_geitrams" x="-758" y="22" dy="20">geitrams</text>

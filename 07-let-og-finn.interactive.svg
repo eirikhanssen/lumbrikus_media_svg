@@ -42,7 +42,9 @@
         <text class="ord" id="t_kuler_hvor_rhisobium_bor" x="177" y="-210" dy="20">kuler hvor rhisobium bor</text>
         <text class="ord" id="t_erteplante" x="-358" y="42" dy="20">erteplante</text>
         <text class="ord" id="t_klatretraader" x="-51" y="-371" dy="20">klatretråder</text>
-        <use xlink:href="t_klatretraader" x="-593" y="-362"></use>
+        <use xlink:href="#t_klatretraader" x="-550" y="0"></use>
+        <use xlink:href="#t_klatretraader" x="50" y="300"></use>
+        <use xlink:href="#t_klatretraader" x="-700" y="450"></use>
         <text class="ord" id="t_jord" x="576" y="542" dy="20">jord</text>
         <text class="ord" id="t_stjernehimmel" x="438" y="-460" dy="20">stjernehimmel</text>
         <text class="ord" id="t_hodelykt" x="-78" y="180" dy="20">hodelykt</text>

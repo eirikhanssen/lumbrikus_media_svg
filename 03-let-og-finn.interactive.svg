@@ -70,6 +70,8 @@
         <text class="ord" id="t_sneglehus" x="-23" y="-403" dy="20">sneglehus</text>
         <text class="ord" id="t_gulroetter" x="653" y="-222" dy="20">gulrøtter</text>
         <text class="ord" id="t_vann" x="643" y="176" dy="20">vann</text>
+        <use xlink:href="#t_vann" x="-480" y="330"></use>
+        <use xlink:href="#t_vann" x="-660" y="260"></use>
         <text class="ord" id="t_regndraape" x="-500" y="-300" dy="20">regndråpe</text>
         <text class="ord" id="t_stein" x="-67" y="107" dy="20">stein</text>
         <text class="ord" id="t_meitemark" x="574" y="468" dy="20">meitemark</text>

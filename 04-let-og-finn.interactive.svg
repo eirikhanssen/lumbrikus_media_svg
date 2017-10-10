@@ -41,14 +41,21 @@
         <text class="ord" id="t_roedkloever" x="-757" y="-164" dy="20">rødkløver</text>
         <text class="ord" id="t_epleblomst" x="-56" y="-409" dy="20">epleblomst</text>
         <text class="ord" id="t_prestekrage" x="414" y="-358" dy="20">prestekrage</text>
-        <text class="ord" id="t_haargullbasse" x="647" y="-556" dy="20">hårgullbasse</text>
-        <text class="ord" id="t_geitrams" x="701" y="231" dy="20">geitrams</text>
+        <text class="ord" id="t_haargullbasse" x="600" y="-570" dy="20">hårgullbasse</text>
+        <use xlink:href="#t_haargullbasse" x="-450" y="810"></use>
+        <text class="ord" id="t_geitrams" x="770" y="-150" dy="20">geitrams</text>
         <text class="ord" id="t_blaabaerblomst" x="355" y="298" dy="20">blåbærblomst</text>
         <text class="ord" id="t_smoerblomst" x="23" y="416" dy="20">smørblomst</text>
         <text class="ord" id="t_blomsterflue" x="-344" y="338" dy="20">blomsterflue</text>
         <text class="ord" id="t_fuglevikke" x="-691" y="319" dy="20">fuglevikke</text>
-        <text class="ord" id="t_meitemarkbaesj" x="-654" y="562" dy="20">meitemarkbæsj</text>
-        <text class="ord" id="t_humle" x="160" y="146" dy="20">humle</text>
+        <text class="ord" id="t_meitemarkbaesj" x="-750" y="560" dy="20">meitemarkbæsj</text>
+        <text class="ord" id="t_humle" x="100" y="90" dy="20">humle</text>
+        <use xlink:href="#t_humle" x="660" y="60"></use>
+        <use xlink:href="#t_humle" x="520" y="460"></use>
+        <use xlink:href="#t_humle" x="-300" y="-300"></use>
+        <use xlink:href="#t_humle" x="-300" y="-300"></use>
+        <use xlink:href="#t_humle" x="-470" y="-570"></use>
+        <use xlink:href="#t_humle" x="-600" y="370"></use>
     </g>
     
     <g id="g_ord_clones">

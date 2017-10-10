@@ -45,12 +45,15 @@
         
         <text class="ord" id="t_erteplante" x="-346" y="-463" dy="20">erteplante</text>
         <text class="ord" id="t_rot" x="-338" y="-35" dy="20">rot</text>
-        <text class="ord" id="t_rhisobium_bor_i_denne_knollen" x="82" y="-500" dy="20"><tspan x="82" y="-500" dy="0">rhisobium bor </tspan><tspan x="82" y="-500" dy="50">i denne knollen</tspan></text>
-        <text class="ord" id="t_jord" x="-75" y="91" dy="20">jord</text>
-        <text class="ord" id="t_jord2" x="-266" y="567" dy="20">jord</text>
-        <text class="ord" id="t_loepebille" x="-121" y="385" dy="20"><tspan x="634" y="381" dy="20">løpebille</tspan><tspan x="-221" y="385" dy="20">løpebille</tspan></text>
+        <text class="ord" id="t_rhisobium_bor_i_denne_knollen" x="0" y="-400" dy="20">rhisobium bor i denne knollen</text>
+        <text class="ord" id="t_jord" x="-75" y="90" dy="20">jord</text>
+        <text class="ord" id="t_jord2" x="-266" y="540" dy="20">jord</text>
+        <text class="ord" id="t_loepebille" x="-80" y="370" dy="20">løpebille</text>
+        
+        <use xlink:href="#t_loepebille" x="850" y="0"></use>
+        
         <text class="ord" id="t_skolopenderen_spiser_en_meitemark" x="500" y="118" dy="20"><tspan x="500" y="118" dy="0">skolopenderen</tspan><tspan x="500" y="118" dy="50">spiser</tspan><tspan x="500" y="118" dy="100">en meitemark</tspan></text>
-        <text class="ord" id="t_meitemark_i_hvilerom" x="-600" y="364" dy="20"><tspan x="-600" y="364" dy="0">meitemark</tspan><tspan x="-600" y="364" dy="50">i hvilerom</tspan></text>
+        <text class="ord" id="t_meitemark_i_hvilerom" x="-600" y="250" dy="20">meitemark i hvilerom</text>
         <text class="ord" id="t_kokong" x="240" y="556" dy="20">kokong</text>
         <text class="ord" id="t_en_gang" x="547" y="432" dy="20">en gang</text>
         <text class="ord" id="t_jenny" x="95" y="232" dy="20">Jenny</text>
