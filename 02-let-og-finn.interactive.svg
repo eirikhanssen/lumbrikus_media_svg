@@ -50,7 +50,7 @@
         <path id="z_spade" d="m 34,429 c 49,-9 73,-33 104,-60 7,-6 -0,-19 2,-25 12,-20 31,-39 42,-60 4,-8 -13,-20 -20,-13 -13,13 -26,33 -47,52 -6,5 -18,-3 -22,4 -22,35 -49,60 -57,103 z"></path>
     </g>
     
-    <g id="g_ord">
+    <g id="g_ord" opacity="0.5">
         <text class="ord" id="t_epletre" x="-300" y="-230" dy="20">epletre</text>
         <text class="ord" id="t_bjoerk" x="-786" y="-329" dy="20">bjørk</text>
         <text class="ord" id="t_blomster" x="205" y="-295" dy="20">blomster</text>
