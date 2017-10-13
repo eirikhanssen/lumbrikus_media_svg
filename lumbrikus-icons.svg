@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="lumbrikus-icons.css" ?>   
+<!--<?xml-stylesheet type="text/css" href="lumbrikus-icons.css" ?>   -->
 <svg
     id="SVG_let_og_finn"
     width="100%"
@@ -13,6 +13,148 @@
     <defs>
         <style type="text/css">
             <![CDATA[*/
+#lumbrikus-icon,
+#lumbrikus-icon-bw {
+    fill: #7a2f4f;
+    font-family: sans-serif;
+}
+#lumbrikus-icon text,
+#lumbrikus-icon-bw text {
+    fill: black;
+    stroke: #9cff6e;
+    stroke-width: 3px;
+    paint-order: stroke;
+    stroke-linejoin: round;
+    text-anchor: middle;
+    font-size: 14px;
+}
+#lumbrikus-icon text+text,
+#lumbrikus-icon-bw text+text{
+    stroke-width: 1px;
+    stroke:black;
+}
+#lumbrikus-icon-bw {
+    fill: black;
+}
+
+#lumbrikus-icon-bw text
+ {
+    stroke: white;
+}
+
+.kap circle {
+    fill: black;
+}
+.kap text, .kviss text {
+    font-family: Arial, "DejaVu Sans" sans-serif;
+    text-anchor:middle;
+    font-size: 24px;
+    fill: white;
+    font-weight: bold;
+}
+.kviss text {
+    fill:black;
+    stroke: black;
+    stroke-width: 0.5px;
+}
+.icon-bg {
+    fill: black;
+    opacity: 0.2;
+}
+.icon-border {
+    stroke: black;
+    stroke-width: 1px;
+    fill: transparent;
+}
+
+.thick {
+    stroke: black;
+    fill: transparent;
+    stroke-width: 2px;
+    stroke-linecap: butt;
+}
+#magnifier path {
+    stroke: black;
+    stroke-linecap: round;
+    stroke-width: 4px;
+}
+
+.bookline {
+    stroke: black;
+    stroke-linecap: round;
+    stroke-width: 1px;
+    fill: transparent; 
+    stroke-linejoin: round;
+}
+
+#ord-bw-icon .bookfill {
+    fill:black;
+}
+#ord-bw-icon .bookpaper {
+   fill: rgba(255,255,255,0.75);
+}
+
+.bookfill {
+    fill: rgb(255, 84, 84);
+}
+.bookpaper {
+    fill: rgb(245, 220, 198);
+    stroke: magenta;
+    stroke-width: 0.2px;
+}
+
+.hode {
+    stroke: black;
+    stroke-width: 1px;
+    fill: rgb(255, 234, 45); 
+}
+
+#gjore-lage-bw-icon .hode {
+    fill: transparent;
+}
+
+.smile {
+    stroke: black;
+    stroke-width: 1px;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    fill: rgb(255, 255, 255);
+}
+.helmet, .hodelykt {
+    stroke: black;
+    stroke-width: 1.5px;
+    stroke-linecap: miter;
+    fill:white;
+}
+
+.visor, .eyes {
+    stroke: black;
+    stroke-width: 1px;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    fill: rgba(255, 255, 255, 0.7);
+}
+#filmer-icon .icon-border {
+    fill: rgb(155, 2, 15);
+}
+
+#filmer-icon-bw .icon-border {
+    fill: transparent;
+}
+#filmer-icon .play {
+    fill: white;
+}
+#filmer-icon-bw .play {
+    fill: black;
+}
+
+.frame {
+    stroke: black;
+    stroke-width: 2px;
+    fill: transparent;
+    stroke-linecap: square;
+    stroke-linejoin: miter;
+}
             /*]]>*/
         </style>
     </defs>
